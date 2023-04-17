@@ -57,7 +57,7 @@ class App(QMainWindow):
                        'input_dialog_text_color': 'white'}
 
         self.font = "Bookman Old Style"
-        self.width = 1200
+        self.width = 1199
         self.height = 599
         # self.layout=QGridLayout()
         widget = QWidget()
