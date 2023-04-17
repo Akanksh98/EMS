@@ -58,7 +58,7 @@ class App(QMainWindow):
 
         self.font = "Bookman Old Style"
         self.width = 1200
-        self.height = 600
+        self.height = 599
         # self.layout=QGridLayout()
         widget = QWidget()
         self.layout = QGridLayout()
